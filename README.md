@@ -5,16 +5,16 @@ CropMaster is an intelligent web application that helps farmers and agricultural
 ## 📸 Screenshots
 
 ### Login Page
-![login](https://github.com/user-attachments/assets/484be416-e729-4677-855e-bf148e102bc0)
+![c1](https://github.com/user-attachments/assets/9bcdd703-26a1-4121-ba16-f6870e2f9583)
 
 ### Home Page
-![home](https://github.com/user-attachments/assets/e71d7b42-e43e-4866-a382-b588b67ae79f)
+![c2](https://github.com/user-attachments/assets/45ad4c15-0835-4d4d-9782-e66c93301587)
 
 ### Prediction Interface
-![prediction](https://github.com/user-attachments/assets/722e2a72-48f2-4b85-b77f-a14289c22b9d)
+![c3](https://github.com/user-attachments/assets/81305ae6-331e-4b18-9596-ee2c21b149e2)
 
 ### Sample Prediction Result
-![predicted result](https://github.com/user-attachments/assets/a2ceb2e7-7582-446c-9086-da9ed8a3d8aa)
+![c4](https://github.com/user-attachments/assets/8c3899aa-a501-4ddf-b334-1b50cf6a4fbe)
 
 ## 🚀 Features
 
